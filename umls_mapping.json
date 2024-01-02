@@ -1,0 +1,43 @@
+{"class": "areal lesion", "umls_concepts": ["Lesion"]}
+{"class": "CVC", "umls_concepts": ["Central venous catheter, device", "Central venous catheter"]}
+{"class": "collapsed", "umls_concepts": ["Atelectasis", "Discoid atelectasis"]}
+{"class": "ETT",  "umls_concepts": ["Endotracheal tube", "Oral Endotracheal Tube"]}
+{"class": "fracture", "umls_concepts": ["Fracture with displacement", "Fracture", "Fractures"]}
+{"class": "NGT", "umls_concepts": ["Nasogastric tube"]}
+{"class": "organ", "umls_concepts": []}
+{"class": "swan ganz catheter", "umls_concepts": ["Pulmonary artery flotation catheter"]}
+{"class": "abdomen", "umls_concepts": ["abdomen", "Stomach"]}
+{"class": "anterior rib", "umls_concepts": []}
+{"class": "anterior rib left", "umls_concepts": []}
+{"class": "anterior rib right", "umls_concepts": []}
+{"class": "aorta", "umls_concepts": ["Aorta", "Thoracic aorta", "Aortic arch"]}
+{"class": "breast", "umls_concepts": ["Breast"]}
+{"class": "calcification", "umls_concepts": ["Calcification", "Calcified"]}
+{"class": "cardiomediastinum", "umls_concepts": ["Mediastinum", "Structure of carina", "Mediastinal"]}
+{"class": "cervical spine", "umls_concepts": ["Cervical spine", "Cervical Vertebrae"]}
+{"class": "clavicles", "umls_concepts": ["Bone structure of clavicle", "Fractured left clavicle", "Fractured right clavicle", "Right clavicle", "Left clavicle"]}
+{"class": "device", "umls_concepts": ["Medical Devices", "device", "drain", "clip", "pacemaker", "Package Dosing Unit"]}
+{"class": "diaphragm", "umls_concepts": ["Structure of hemidiaphragm", "hemidiaphragm"]}
+{"class": "esophagus", "umls_concepts": ["Esophagus"]}
+{"class": "heart", "umls_concepts": ["Heart", "heart size", "Cardiomegaly", "Cardiac silhouette enlarged", "Congestive heart failure", "atrium", "Cardiac shadow", "atrial", "ventricular", "Coronary"]}
+{"class": "lumbar spine", "umls_concepts": ["Bone structure of lumbar vertebra"]}
+{"class": "lung left", "umls_concepts": ["Left lung", "Structure of left lower lobe of lung", "Structure of base of left lung"]}
+{"class": "lung", "umls_concepts": ["Lung", "Hilar", "Basal segment of lung", "apex of lung", "parenchyma of lung", "base", "Fissure", "Pleural cavity"]}
+{"class": "lung right", "umls_concepts": ["Right lung", "Structure of right lower lobe of lung", "Structure of base of right lung"]}
+{"class": "Lung pathology", "umls_concepts": ["Pneumonia", "Lung consolidation", "Decreased translucency", "Cicatrization", "Aspiration Pneumonia", "Pathological accumulation of air in tissues", "Pulmonary Edema", "Opacification", "Chronic Obstructive Airway Disease", "Blurred vision", "Pneumonia", "consolidation"]}
+{"class": "noise", "umls_concepts": []}
+{"class": "non consolidated lesion", "umls_concepts": []}
+{"class": "object", "umls_concepts": []}
+{"class": "pleural pathology", "umls_concepts": ["effusion", "Pleural effusion disorder", "Pneumothorax"]}
+{"class": "posterior rib", "umls_concepts": []}
+{"class": "posterior rib left", "umls_concepts": []}
+{"class": "posterior rib right", "umls_concepts": []}
+{"class": "pulmonary vasculature", "umls_concepts": ["Pulmonary vascular system", "lung vasculature development", "Vasculature of lung"]}
+{"class": "rib", "umls_concepts": ["Bone structure of rib"]}
+{"class": "rib cartilage", "umls_concepts": ["Rib Cage"]}
+{"class": "scapulas", "umls_concepts": ["Bone structure of scapula"]}
+{"class": "spine", "umls_concepts": ["Vertebral column", "Scoliosis", "Scoliosis, unspecified", "Bone structure of T"]}
+{"class": "sternum", "umls_concepts": ["Sternum"]}
+{"class": "surgery", "umls_concepts": ["Surgical Procedures", "Surgery"]}
+{"class": "thoracic spine", "umls_concepts": ["Thoracic spine structure", "Structure of thoracic inlet"]}
+{"class": "trachea", "umls_concepts": ["Trachea"]}
