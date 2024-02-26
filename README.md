@@ -1,4 +1,10 @@
+## Installation
+```bash
+conda create -n tagger python=3.9
+pip install -r requirements.txt
+```
 
+## Run
 Run server on localhost:
 ```bash
 python -m flask run
