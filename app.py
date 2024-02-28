@@ -24,6 +24,9 @@ with open("umls_mapping.json") as f:
     for json_entity in f:
         seg_entities.append(json.loads(json_entity))
 
+with open("class_list.json") as f:
+    seg_class_list = json.load(f)["categories"]
+
 def link_to_seg_ent(text):
 
     for ent in seg_entities:
@@ -31,6 +34,12 @@ def link_to_seg_ent(text):
             if concept.lower() in text.lower():
                 return ent["class"]
     return None
+
+def find_label_id(label):
+    for c in seg_class_list:
+        if c["name"] == label:
+            return c["id"]
+    return -1
 
 @app.route('/tag', methods=['POST'])
 def tag_text():
@@ -56,10 +65,10 @@ def tag_text():
                                 seg_labels = value
                     if not seg_labels:
                         seg_labels = [label_mapping[seg_ent]["default"]]
-
+                    seg_labels = [str(find_label_id(l)) for l in seg_labels]
                     seg_labels = ",".join(seg_labels)
-                    text = f"{text[:ent.start_char + offset]}<{seg_labels}>{str(ent)}</{seg_labels}>"
-                    offset += len(seg_labels) + 5
+                    text = f"{text[:ent.start_char + offset]}{str(ent)}[{seg_labels}]"
+                    offset += len(seg_labels) + 2
     
     return {'tags': text}
 
