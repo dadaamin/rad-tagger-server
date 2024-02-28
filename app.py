@@ -47,7 +47,6 @@ def tag_text():
     text = data['text']
     doc = nlp(text)
 
-    tags = []
     offset = 0
     for ent in doc.ents:
             # Each entity is linked to UMLS with a score
@@ -67,9 +66,8 @@ def tag_text():
                         seg_labels = [label_mapping[seg_ent]["default"]]
                     seg_labels = [str(find_label_id(l)) for l in seg_labels]
                     seg_labels = ",".join(seg_labels)
-                    text = f"{text[:ent.start_char + offset]}{str(ent)}[{seg_labels}]"
-                    offset += len(seg_labels) + 2
-    
+                    text = f"{text[:ent.start_char + offset]}{str(ent)}[{seg_labels}]" + text[ent.end_char + offset:]
+                    offset += len(seg_labels) + 2    
     return {'tags': text}
 
 # To run the server, use the following command in the terminal:
