@@ -1,0 +1,1059 @@
+{
+    "categories": [
+        {
+            "supercategory": "spine",
+            "id": 0,
+            "name": "spine"
+        },
+        {
+            "supercategory": "cervical spine",
+            "id": 1,
+            "name": "cervical spine"
+        },
+        {
+            "supercategory": "thoracic spine",
+            "id": 2,
+            "name": "thoracic spine"
+        },
+        {
+            "supercategory": "lumbar spine",
+            "id": 3,
+            "name": "lumbar spine"
+        },
+        {
+            "supercategory": "vertebrae C1",
+            "id": 4,
+            "name": "vertebrae C1"
+        },
+        {
+            "supercategory": "vertebrae C2",
+            "id": 5,
+            "name": "vertebrae C2"
+        },
+        {
+            "supercategory": "vertebrae C3",
+            "id": 6,
+            "name": "vertebrae C3"
+        },
+        {
+            "supercategory": "vertebrae C4",
+            "id": 7,
+            "name": "vertebrae C4"
+        },
+        {
+            "supercategory": "vertebrae C5",
+            "id": 8,
+            "name": "vertebrae C5"
+        },
+        {
+            "supercategory": "vertebrae C6",
+            "id": 9,
+            "name": "vertebrae C6"
+        },
+        {
+            "supercategory": "vertebrae C7",
+            "id": 10,
+            "name": "vertebrae C7"
+        },
+        {
+            "supercategory": "vertebrae T1",
+            "id": 11,
+            "name": "vertebrae T1"
+        },
+        {
+            "supercategory": "vertebrae T2",
+            "id": 12,
+            "name": "vertebrae T2"
+        },
+        {
+            "supercategory": "vertebrae T3",
+            "id": 13,
+            "name": "vertebrae T3"
+        },
+        {
+            "supercategory": "vertebrae T4",
+            "id": 14,
+            "name": "vertebrae T4"
+        },
+        {
+            "supercategory": "vertebrae T5",
+            "id": 15,
+            "name": "vertebrae T5"
+        },
+        {
+            "supercategory": "vertebrae T6",
+            "id": 16,
+            "name": "vertebrae T6"
+        },
+        {
+            "supercategory": "vertebrae T7",
+            "id": 17,
+            "name": "vertebrae T7"
+        },
+        {
+            "supercategory": "vertebrae T8",
+            "id": 18,
+            "name": "vertebrae T8"
+        },
+        {
+            "supercategory": "vertebrae T9",
+            "id": 19,
+            "name": "vertebrae T9"
+        },
+        {
+            "supercategory": "vertebrae T10",
+            "id": 20,
+            "name": "vertebrae T10"
+        },
+        {
+            "supercategory": "vertebrae T11",
+            "id": 21,
+            "name": "vertebrae T11"
+        },
+        {
+            "supercategory": "vertebrae T12",
+            "id": 22,
+            "name": "vertebrae T12"
+        },
+        {
+            "supercategory": "vertebrae L1",
+            "id": 23,
+            "name": "vertebrae L1"
+        },
+        {
+            "supercategory": "vertebrae L2",
+            "id": 24,
+            "name": "vertebrae L2"
+        },
+        {
+            "supercategory": "vertebrae L3",
+            "id": 25,
+            "name": "vertebrae L3"
+        },
+        {
+            "supercategory": "vertebrae L4",
+            "id": 26,
+            "name": "vertebrae L4"
+        },
+        {
+            "supercategory": "vertebrae L5",
+            "id": 27,
+            "name": "vertebrae L5"
+        },
+        {
+            "supercategory": "rib_cartilage",
+            "id": 28,
+            "name": "rib_cartilage"
+        },
+        {
+            "supercategory": "sternum",
+            "id": 29,
+            "name": "sternum"
+        },
+        {
+            "supercategory": "clavicles",
+            "id": 30,
+            "name": "clavicles"
+        },
+        {
+            "supercategory": "clavicle left",
+            "id": 31,
+            "name": "clavicle left"
+        },
+        {
+            "supercategory": "clavicle right",
+            "id": 32,
+            "name": "clavicle right"
+        },
+        {
+            "supercategory": "scapulas",
+            "id": 33,
+            "name": "scapulas"
+        },
+        {
+            "supercategory": "scapula left",
+            "id": 34,
+            "name": "scapula left"
+        },
+        {
+            "supercategory": "scapula right",
+            "id": 35,
+            "name": "scapula right"
+        },
+        {
+            "supercategory": "posterior 12th rib right",
+            "id": 36,
+            "name": "posterior 12th rib right"
+        },
+        {
+            "supercategory": "posterior 12th rib left",
+            "id": 37,
+            "name": "posterior 12th rib left"
+        },
+        {
+            "supercategory": "anterior 11th rib right",
+            "id": 38,
+            "name": "anterior 11th rib right"
+        },
+        {
+            "supercategory": "posterior 11th rib right",
+            "id": 39,
+            "name": "posterior 11th rib right"
+        },
+        {
+            "supercategory": "anterior 11th rib left",
+            "id": 40,
+            "name": "anterior 11th rib left"
+        },
+        {
+            "supercategory": "posterior 11th rib left",
+            "id": 41,
+            "name": "posterior 11th rib left"
+        },
+        {
+            "supercategory": "anterior 10th rib right",
+            "id": 42,
+            "name": "anterior 10th rib right"
+        },
+        {
+            "supercategory": "posterior 10th rib right",
+            "id": 43,
+            "name": "posterior 10th rib right"
+        },
+        {
+            "supercategory": "anterior 10th rib left",
+            "id": 44,
+            "name": "anterior 10th rib left"
+        },
+        {
+            "supercategory": "posterior 10th rib left",
+            "id": 45,
+            "name": "posterior 10th rib left"
+        },
+        {
+            "supercategory": "anterior 9th rib right",
+            "id": 46,
+            "name": "anterior 9th rib right"
+        },
+        {
+            "supercategory": "posterior 9th rib right",
+            "id": 47,
+            "name": "posterior 9th rib right"
+        },
+        {
+            "supercategory": "anterior 9th rib left",
+            "id": 48,
+            "name": "anterior 9th rib left"
+        },
+        {
+            "supercategory": "posterior 9th rib left",
+            "id": 49,
+            "name": "posterior 9th rib left"
+        },
+        {
+            "supercategory": "anterior 8th rib right",
+            "id": 50,
+            "name": "anterior 8th rib right"
+        },
+        {
+            "supercategory": "posterior 8th rib right",
+            "id": 51,
+            "name": "posterior 8th rib right"
+        },
+        {
+            "supercategory": "anterior 8th rib left",
+            "id": 52,
+            "name": "anterior 8th rib left"
+        },
+        {
+            "supercategory": "posterior 8th rib left",
+            "id": 53,
+            "name": "posterior 8th rib left"
+        },
+        {
+            "supercategory": "anterior 7th rib right",
+            "id": 54,
+            "name": "anterior 7th rib right"
+        },
+        {
+            "supercategory": "posterior 7th rib right",
+            "id": 55,
+            "name": "posterior 7th rib right"
+        },
+        {
+            "supercategory": "anterior 7th rib left",
+            "id": 56,
+            "name": "anterior 7th rib left"
+        },
+        {
+            "supercategory": "posterior 7th rib left",
+            "id": 57,
+            "name": "posterior 7th rib left"
+        },
+        {
+            "supercategory": "anterior 6th rib right",
+            "id": 58,
+            "name": "anterior 6th rib right"
+        },
+        {
+            "supercategory": "posterior 6th rib right",
+            "id": 59,
+            "name": "posterior 6th rib right"
+        },
+        {
+            "supercategory": "anterior 6th rib left",
+            "id": 60,
+            "name": "anterior 6th rib left"
+        },
+        {
+            "supercategory": "posterior 6th rib left",
+            "id": 61,
+            "name": "posterior 6th rib left"
+        },
+        {
+            "supercategory": "anterior 5th rib right",
+            "id": 62,
+            "name": "anterior 5th rib right"
+        },
+        {
+            "supercategory": "posterior 5th rib right",
+            "id": 63,
+            "name": "posterior 5th rib right"
+        },
+        {
+            "supercategory": "anterior 5th rib left",
+            "id": 64,
+            "name": "anterior 5th rib left"
+        },
+        {
+            "supercategory": "posterior 5th rib left",
+            "id": 65,
+            "name": "posterior 5th rib left"
+        },
+        {
+            "supercategory": "anterior 4th rib right",
+            "id": 66,
+            "name": "anterior 4th rib right"
+        },
+        {
+            "supercategory": "posterior 4th rib right",
+            "id": 67,
+            "name": "posterior 4th rib right"
+        },
+        {
+            "supercategory": "anterior 4th rib left",
+            "id": 68,
+            "name": "anterior 4th rib left"
+        },
+        {
+            "supercategory": "posterior 4th rib left",
+            "id": 69,
+            "name": "posterior 4th rib left"
+        },
+        {
+            "supercategory": "anterior 3rd rib right",
+            "id": 70,
+            "name": "anterior 3rd rib right"
+        },
+        {
+            "supercategory": "posterior 3rd rib right",
+            "id": 71,
+            "name": "posterior 3rd rib right"
+        },
+        {
+            "supercategory": "anterior 3rd rib left",
+            "id": 72,
+            "name": "anterior 3rd rib left"
+        },
+        {
+            "supercategory": "posterior 3rd rib left",
+            "id": 73,
+            "name": "posterior 3rd rib left"
+        },
+        {
+            "supercategory": "anterior 2nd rib right",
+            "id": 74,
+            "name": "anterior 2nd rib right"
+        },
+        {
+            "supercategory": "posterior 2nd rib right",
+            "id": 75,
+            "name": "posterior 2nd rib right"
+        },
+        {
+            "supercategory": "anterior 2nd rib left",
+            "id": 76,
+            "name": "anterior 2nd rib left"
+        },
+        {
+            "supercategory": "posterior 2nd rib left",
+            "id": 77,
+            "name": "posterior 2nd rib left"
+        },
+        {
+            "supercategory": "anterior 1st rib right",
+            "id": 78,
+            "name": "anterior 1st rib right"
+        },
+        {
+            "supercategory": "posterior 1st rib right",
+            "id": 79,
+            "name": "posterior 1st rib right"
+        },
+        {
+            "supercategory": "anterior 1st rib left",
+            "id": 80,
+            "name": "anterior 1st rib left"
+        },
+        {
+            "supercategory": "posterior 1st rib left",
+            "id": 81,
+            "name": "posterior 1st rib left"
+        },
+        {
+            "supercategory": "12th rib",
+            "id": 82,
+            "name": "12th rib"
+        },
+        {
+            "supercategory": "posterior 11th rib",
+            "id": 83,
+            "name": "posterior 11th rib"
+        },
+        {
+            "supercategory": "anterior 11th rib",
+            "id": 84,
+            "name": "anterior 11th rib"
+        },
+        {
+            "supercategory": "posterior 10th rib",
+            "id": 85,
+            "name": "posterior 10th rib"
+        },
+        {
+            "supercategory": "anterior 10th rib",
+            "id": 86,
+            "name": "anterior 10th rib"
+        },
+        {
+            "supercategory": "posterior 9th rib",
+            "id": 87,
+            "name": "posterior 9th rib"
+        },
+        {
+            "supercategory": "anterior 9th rib",
+            "id": 88,
+            "name": "anterior 9th rib"
+        },
+        {
+            "supercategory": "posterior 8th rib",
+            "id": 89,
+            "name": "posterior 8th rib"
+        },
+        {
+            "supercategory": "anterior 8th rib",
+            "id": 90,
+            "name": "anterior 8th rib"
+        },
+        {
+            "supercategory": "posterior 7th rib",
+            "id": 91,
+            "name": "posterior 7th rib"
+        },
+        {
+            "supercategory": "anterior 7th rib",
+            "id": 92,
+            "name": "anterior 7th rib"
+        },
+        {
+            "supercategory": "posterior 6th rib",
+            "id": 93,
+            "name": "posterior 6th rib"
+        },
+        {
+            "supercategory": "anterior 6th rib",
+            "id": 94,
+            "name": "anterior 6th rib"
+        },
+        {
+            "supercategory": "posterior 5th rib",
+            "id": 95,
+            "name": "posterior 5th rib"
+        },
+        {
+            "supercategory": "anterior 5th rib",
+            "id": 96,
+            "name": "anterior 5th rib"
+        },
+        {
+            "supercategory": "posterior 4th rib",
+            "id": 97,
+            "name": "posterior 4th rib"
+        },
+        {
+            "supercategory": "anterior 4th rib",
+            "id": 98,
+            "name": "anterior 4th rib"
+        },
+        {
+            "supercategory": "posterior 3rd rib",
+            "id": 99,
+            "name": "posterior 3rd rib"
+        },
+        {
+            "supercategory": "anterior 3rd rib",
+            "id": 100,
+            "name": "anterior 3rd rib"
+        },
+        {
+            "supercategory": "posterior 2nd rib",
+            "id": 101,
+            "name": "posterior 2nd rib"
+        },
+        {
+            "supercategory": "anterior 2nd rib",
+            "id": 102,
+            "name": "anterior 2nd rib"
+        },
+        {
+            "supercategory": "posterior 1st rib",
+            "id": 103,
+            "name": "posterior 1st rib"
+        },
+        {
+            "supercategory": "anterior 1st rib",
+            "id": 104,
+            "name": "anterior 1st rib"
+        },
+        {
+            "supercategory": "diaphragm",
+            "id": 105,
+            "name": "diaphragm"
+        },
+        {
+            "supercategory": "right hemidiaphragm",
+            "id": 106,
+            "name": "right hemidiaphragm"
+        },
+        {
+            "supercategory": "left hemidiaphragm",
+            "id": 107,
+            "name": "left hemidiaphragm"
+        },
+        {
+            "supercategory": "stomach",
+            "id": 108,
+            "name": "stomach"
+        },
+        {
+            "supercategory": "small bowel",
+            "id": 109,
+            "name": "small bowel"
+        },
+        {
+            "supercategory": "duodenum",
+            "id": 110,
+            "name": "duodenum"
+        },
+        {
+            "supercategory": "liver",
+            "id": 111,
+            "name": "liver"
+        },
+        {
+            "supercategory": "pancreas",
+            "id": 112,
+            "name": "pancreas"
+        },
+        {
+            "supercategory": "kidney left",
+            "id": 113,
+            "name": "kidney left"
+        },
+        {
+            "supercategory": "kidney right",
+            "id": 114,
+            "name": "kidney right"
+        },
+        {
+            "supercategory": "cardiomediastinum",
+            "id": 115,
+            "name": "cardiomediastinum"
+        },
+        {
+            "supercategory": "upper mediastinum",
+            "id": 116,
+            "name": "upper mediastinum"
+        },
+        {
+            "supercategory": "lower mediastinum",
+            "id": 117,
+            "name": "lower mediastinum"
+        },
+        {
+            "supercategory": "anterior mediastinum",
+            "id": 118,
+            "name": "anterior mediastinum"
+        },
+        {
+            "supercategory": "middle mediastinum",
+            "id": 119,
+            "name": "middle mediastinum"
+        },
+        {
+            "supercategory": "posterior mediastinum",
+            "id": 120,
+            "name": "posterior mediastinum"
+        },
+        {
+            "supercategory": "heart",
+            "id": 121,
+            "name": "heart"
+        },
+        {
+            "supercategory": "heart atrium left",
+            "id": 122,
+            "name": "heart atrium left"
+        },
+        {
+            "supercategory": "heart atrium right",
+            "id": 123,
+            "name": "heart atrium right"
+        },
+        {
+            "supercategory": "heart myocardium",
+            "id": 124,
+            "name": "heart myocardium"
+        },
+        {
+            "supercategory": "heart ventricle left",
+            "id": 125,
+            "name": "heart ventricle left"
+        },
+        {
+            "supercategory": "heart ventricle right",
+            "id": 126,
+            "name": "heart ventricle right"
+        },
+        {
+            "supercategory": "aorta",
+            "id": 127,
+            "name": "aorta"
+        },
+        {
+            "supercategory": "ascending aorta",
+            "id": 128,
+            "name": "ascending aorta"
+        },
+        {
+            "supercategory": "descending aorta",
+            "id": 129,
+            "name": "descending aorta"
+        },
+        {
+            "supercategory": "aortic arch",
+            "id": 130,
+            "name": "aortic arch"
+        },
+        {
+            "supercategory": "pulmonary artery",
+            "id": 131,
+            "name": "pulmonary artery"
+        },
+        {
+            "supercategory": "pulmonary trunc",
+            "id": 132,
+            "name": "pulmonary trunc"
+        },
+        {
+            "supercategory": "left pulmonary artery ",
+            "id": 133,
+            "name": "left pulmonary artery "
+        },
+        {
+            "supercategory": "right pulmonary artery ",
+            "id": 134,
+            "name": "right pulmonary artery "
+        },
+        {
+            "supercategory": "inferior vena cava",
+            "id": 135,
+            "name": "inferior vena cava"
+        },
+        {
+            "supercategory": "esophagus",
+            "id": 136,
+            "name": "esophagus"
+        },
+        {
+            "supercategory": "lung",
+            "id": 137,
+            "name": "lung"
+        },
+        {
+            "supercategory": "right lung",
+            "id": 138,
+            "name": "right lung"
+        },
+        {
+            "supercategory": "left lung",
+            "id": 139,
+            "name": "left lung"
+        },
+        {
+            "supercategory": "lung base",
+            "id": 140,
+            "name": "lung base"
+        },
+        {
+            "supercategory": "mid zone lung",
+            "id": 141,
+            "name": "mid zone lung"
+        },
+        {
+            "supercategory": "upper zone lung",
+            "id": 142,
+            "name": "upper zone lung"
+        },
+        {
+            "supercategory": "apical zone lung",
+            "id": 143,
+            "name": "apical zone lung"
+        },
+        {
+            "supercategory": "right upper zone lung",
+            "id": 144,
+            "name": "right upper zone lung"
+        },
+        {
+            "supercategory": "right mid zone lung",
+            "id": 145,
+            "name": "right mid zone lung"
+        },
+        {
+            "supercategory": "right lung base",
+            "id": 146,
+            "name": "right lung base"
+        },
+        {
+            "supercategory": "right apical zone lung",
+            "id": 147,
+            "name": "right apical zone lung"
+        },
+        {
+            "supercategory": "left upper zone lung",
+            "id": 148,
+            "name": "left upper zone lung"
+        },
+        {
+            "supercategory": "left mid zone lung",
+            "id": 149,
+            "name": "left mid zone lung"
+        },
+        {
+            "supercategory": "left lung base",
+            "id": 150,
+            "name": "left lung base"
+        },
+        {
+            "supercategory": "left apical zone lung",
+            "id": 151,
+            "name": "left apical zone lung"
+        },
+        {
+            "supercategory": "lung lower lobe left",
+            "id": 152,
+            "name": "lung lower lobe left"
+        },
+        {
+            "supercategory": "lung upper lobe left",
+            "id": 153,
+            "name": "lung upper lobe left"
+        },
+        {
+            "supercategory": "lung lower lobe right",
+            "id": 154,
+            "name": "lung lower lobe right"
+        },
+        {
+            "supercategory": "lung middle lobe right",
+            "id": 155,
+            "name": "lung middle lobe right"
+        },
+        {
+            "supercategory": "lung upper lobe right",
+            "id": 156,
+            "name": "lung upper lobe right"
+        },
+        {
+            "supercategory": "less obstructed lung",
+            "id": 157,
+            "name": "less obstructed lung"
+        },
+        {
+            "supercategory": "less obstructed left lung",
+            "id": 158,
+            "name": "less obstructed left lung"
+        },
+        {
+            "supercategory": "less obstructed right lung",
+            "id": 159,
+            "name": "less obstructed right lung"
+        },
+        {
+            "supercategory": "less obstructed lung base",
+            "id": 160,
+            "name": "less obstructed lung base"
+        },
+        {
+            "supercategory": "less obstructed mid zone lung",
+            "id": 161,
+            "name": "less obstructed mid zone lung"
+        },
+        {
+            "supercategory": "less obstructed upper zone lung",
+            "id": 162,
+            "name": "less obstructed upper zone lung"
+        },
+        {
+            "supercategory": "less obstructed apical zone lung",
+            "id": 163,
+            "name": "less obstructed apical zone lung"
+        },
+        {
+            "supercategory": "less obstructed right upper zone lung",
+            "id": 164,
+            "name": "less obstructed right upper zone lung"
+        },
+        {
+            "supercategory": "less obstructed right mid zone lung",
+            "id": 165,
+            "name": "less obstructed right mid zone lung"
+        },
+        {
+            "supercategory": "less obstructed right lung base",
+            "id": 166,
+            "name": "less obstructed right lung base"
+        },
+        {
+            "supercategory": "less obstructed right apical zone lung",
+            "id": 167,
+            "name": "less obstructed right apical zone lung"
+        },
+        {
+            "supercategory": "less obstructed left upper zone lung",
+            "id": 168,
+            "name": "less obstructed left upper zone lung"
+        },
+        {
+            "supercategory": "less obstructed left mid zone lung",
+            "id": 169,
+            "name": "less obstructed left mid zone lung"
+        },
+        {
+            "supercategory": "less obstructed left lung base",
+            "id": 170,
+            "name": "less obstructed left lung base"
+        },
+        {
+            "supercategory": "less obstructed left apical zone lung",
+            "id": 171,
+            "name": "less obstructed left apical zone lung"
+        },
+        {
+            "supercategory": "trachea",
+            "id": 172,
+            "name": "trachea"
+        },
+        {
+            "supercategory": "tracheal bifurcation",
+            "id": 173,
+            "name": "tracheal bifurcation"
+        },
+        {
+            "supercategory": "breast",
+            "id": 174,
+            "name": "breast"
+        },
+        {
+            "supercategory": "breast left",
+            "id": 175,
+            "name": "breast left"
+        },
+        {
+            "supercategory": "breast right",
+            "id": 176,
+            "name": "breast right"
+        },
+        {
+            "id": 177,
+            "name": "Atelectasis",
+            "supercategory": "Areal Lesion "
+        },
+        {
+            "id": 178,
+            "name": "Calcification",
+            "supercategory": "calcification"
+        },
+        {
+            "id": 179,
+            "name": "Cardiomegaly",
+            "supercategory": "Organ"
+        },
+        {
+            "id": 180,
+            "name": "Consolidation",
+            "supercategory": "Areal Lesion"
+        },
+        {
+            "id": 181,
+            "name": "Diffuse Nodule",
+            "supercategory": "Focal lesion"
+        },
+        {
+            "id": 182,
+            "name": "Effusion",
+            "supercategory": "Collapsed"
+        },
+        {
+            "id": 183,
+            "name": "Emphysema",
+            "supercategory": "non consolidated lesion"
+        },
+        {
+            "id": 184,
+            "name": "Fibrosis",
+            "supercategory": "non consolidated lesion"
+        },
+        {
+            "id": 185,
+            "name": "Fracture",
+            "supercategory": "Fracture"
+        },
+        {
+            "id": 186,
+            "name": "Mass",
+            "supercategory": "Focal lesion"
+        },
+        {
+            "id": 187,
+            "name": "Nodule",
+            "supercategory": "Focal lesion"
+        },
+        {
+            "id": 188,
+            "name": "Pleural Thickening",
+            "supercategory": "pleural pathology"
+        },
+        {
+            "id": 189,
+            "name": "Pneumothorax",
+            "supercategory": "pleural pathology"
+        },
+        {
+            "supercategory": "CVC - Normal",
+            "id": 190,
+            "name": "CVC - Normal"
+        },
+        {
+            "supercategory": "CVC - Borderline",
+            "id": 191,
+            "name": "CVC - Borderline"
+        },
+        {
+            "supercategory": "NGT - Normal",
+            "id": 192,
+            "name": "NGT - Normal"
+        },
+        {
+            "supercategory": "ETT - Normal",
+            "id": 193,
+            "name": "ETT - Normal"
+        },
+        {
+            "supercategory": "NGT - Incompletely Imaged",
+            "id": 194,
+            "name": "NGT - Incompletely Imaged"
+        },
+        {
+            "supercategory": "CVC - Abnormal",
+            "id": 195,
+            "name": "CVC - Abnormal"
+        },
+        {
+            "supercategory": "ETT - Borderline",
+            "id": 196,
+            "name": "ETT - Borderline"
+        },
+        {
+            "supercategory": "Swan Ganz Catheter Present",
+            "id": 197,
+            "name": "Swan Ganz Catheter Present"
+        },
+        {
+            "supercategory": "NGT - Borderline",
+            "id": 198,
+            "name": "NGT - Borderline"
+        },
+        {
+            "supercategory": "NGT - Abnormal",
+            "id": 199,
+            "name": "NGT - Abnormal"
+        },
+        {
+            "supercategory": "ETT - Abnormal",
+            "id": 200,
+            "name": "ETT - Abnormal"
+        },
+        {
+            "id": 201,
+            "name": "foreign object",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 202,
+            "name": "Cabel",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 203,
+            "name": "Clamp",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 204,
+            "name": "electronics",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 205,
+            "name": "Throat Pipe",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 206,
+            "name": "Pipe",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 207,
+            "name": "Letters",
+            "supercategory": "noise"
+        },
+        {
+            "id": 208,
+            "name": "stiches",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 209,
+            "name": "sensors",
+            "supercategory": "Fremdk\u00f6rper"
+        },
+        {
+            "id": 210,
+            "name": "implant",
+            "supercategory": "Fremdk\u00f6rper"
+        }
+    ]
+}
